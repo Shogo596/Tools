@@ -25,10 +25,12 @@ Tools
 
 - SplitFile.bat
   - 任意のファイルを指定のサイズに分割する。
+<br>
 
 #### PowerShell
 - FileRename.ps1
   - 任意のディレクトリにある全てのファイルのファイル名を一括置換する。
+<br>
 
 #### VBScript
 - DoubleBootMonitor.vbs
